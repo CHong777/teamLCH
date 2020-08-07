@@ -3,7 +3,6 @@ It is made of java and android sutdio.
 
 ScreenShot
 --------------
-
 Virtual Fan image
 
 <div>
@@ -11,7 +10,6 @@ Virtual Fan image
 </div>
 
 --------------
-
 Android Application image
 
 
